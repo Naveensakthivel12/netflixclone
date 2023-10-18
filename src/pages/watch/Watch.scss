@@ -1,0 +1,20 @@
+.watch{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(0, 70, 70);
+    overflow: hidden;
+    // justify-content: center;/
+    .back{
+        display: flex;
+        align-items: center;
+        position: relative;
+        top: 10px;
+        left: 10px;
+        font-size: 20px;
+        color: rgb(255, 255, 255);
+        cursor: pointer;
+        z-index: 2;
+        
+    }
+    
+}
